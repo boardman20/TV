@@ -1,14 +1,3 @@
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 16-10-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 16-10-2015--[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]--- Temporare Kanale ---[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanale ---[/COLOR]
-http://0.0.0.0:1234
-
 #EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0001.png",[COLOR orange]Das Erste[/COLOR]
 http://wownet.ro/str/0001.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste HD[/COLOR]
